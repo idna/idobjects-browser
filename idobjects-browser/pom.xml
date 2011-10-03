@@ -21,6 +21,11 @@
 			<artifactId>joda-time</artifactId>
 			<version>2.0</version>
 		</dependency>
+		<dependency>
+			<groupId>net.java.dev.nimbus</groupId>
+			<artifactId>nimbus</artifactId>
+			<version>weekly-080113</version>
+		</dependency>
 	</dependencies>
 
 </project>
